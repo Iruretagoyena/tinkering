@@ -184,6 +184,7 @@ After training, you should see:
 ## 📚 Additional Resources
 
 - [Tinker Documentation](https://docs.thinkingmachines.ai/)
+- [Tinker Cookbook Tutorials](tutorials/README.md)
 - [Tinker Cookbook](https://github.com/thinking-machines-lab/tinker-cookbook)
 - [Scientific Python Ecosystem](https://scipy.org/)
 
