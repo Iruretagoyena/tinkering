@@ -1,0 +1,35 @@
+[
+  {
+    "task": "Create a simple line plot of x from 0 to 10 and y = x^2",
+    "expected_keywords": ["matplotlib", "plot", "x**2", "numpy", "linspace"]
+  },
+  {
+    "task": "Calculate the mean and standard deviation of a list of numbers",
+    "expected_keywords": ["mean", "std", "numpy", "np."]
+  },
+  {
+    "task": "Load a CSV file using pandas and display the first 5 rows",
+    "expected_keywords": ["pandas", "read_csv", "pd.", "head"]
+  },
+  {
+    "task": "Create a histogram of data with 20 bins",
+    "expected_keywords": ["hist", "histogram", "bins", "matplotlib"]
+  },
+  {
+    "task": "Perform linear regression on x and y data",
+    "expected_keywords": ["linregress", "scipy", "stats", "regression"]
+  },
+  {
+    "task": "Normalize an array to have zero mean and unit variance",
+    "expected_keywords": ["mean", "std", "normalize", "numpy"]
+  },
+  {
+    "task": "Calculate the correlation coefficient between two variables",
+    "expected_keywords": ["corr", "correlation", "pearson", "scipy"]
+  },
+  {
+    "task": "Fit a polynomial of degree 2 to data points",
+    "expected_keywords": ["polyfit", "polynomial", "numpy", "degree"]
+  }
+]
+
